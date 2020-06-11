@@ -17,6 +17,7 @@ install:
 
 script: python setup.py test
 
+arch: arm64
 addons:
   postgresql: "10"
 
